@@ -1,2 +1,8 @@
-There once was a poor CS student trying to make sure that his/her code was working. They had tried anything and everything to make their code print out "Hello World", but
-no matter what they did, it didn't seem to work. Then one day they discovered a certain bug in their code.....
+There once was an old man who had an avid obsession with pretzels. He loved them. All shapes, sizes, saltiness,
+sweetness, anything and everything about pretzels he absolutely adored. Because he had been retired for quite some time, 
+he had made it his life goal to find the absolute best pretzel to go with the absolute best dip. 
+His search had lead him far across the land, from the Mongolian Steppe, to the brutal heat of the Australian desert. At long last,
+he found the perfect kind of pretzel- the ever so glorious Rold Gold Guaranteed Fresh TM Braided Honey Wheat pretzel (patent pending). 
+Now the only further question was what dip to pair with this delicious treat and how to use such invaluable knowledge!
+
+
